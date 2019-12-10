@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\2f6ce1a05f37b129ecaab240df4511c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\5da1eb76baa4e4451508aa9498ce3356\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\fb3ed72de35a526a4fdfc54e50cc96e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\8152f0a1ec7d187bfb76a4d9f07774a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\4202fa0dcba756c4928b3ceb4df2dcd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\1ca2aa948fce94af441599c31b35d2e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\0765bfe540b8a2ce00440f2221cf4ab0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\d7463d6e2beaa03348458b5881d4d67c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\004676d34d21f6be011da58ea097e513\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\a42f72496c0b6f25476e2b46eae04998\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\f44be53b88a76ed228b814127bf7fc0f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\97b1a02d12e6ebfd572930c2906b97f8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\5da1eb76baa4e4451508aa9498ce3356\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\5da1eb76baa4e4451508aa9498ce3356\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.android.fundamentals.powerreceiver.Main3Activity
+ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:13:19-48
+activity#com.android.fundamentals.powerreceiver.Main2Activity
+ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:14:19-48
+activity#com.android.fundamentals.powerreceiver.MainActivity
+ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\2f6ce1a05f37b129ecaab240df4511c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\2f6ce1a05f37b129ecaab240df4511c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\5da1eb76baa4e4451508aa9498ce3356\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\5da1eb76baa4e4451508aa9498ce3356\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\fb3ed72de35a526a4fdfc54e50cc96e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\fb3ed72de35a526a4fdfc54e50cc96e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\8152f0a1ec7d187bfb76a4d9f07774a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\8152f0a1ec7d187bfb76a4d9f07774a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\4202fa0dcba756c4928b3ceb4df2dcd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\4202fa0dcba756c4928b3ceb4df2dcd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\1ca2aa948fce94af441599c31b35d2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\1ca2aa948fce94af441599c31b35d2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\0765bfe540b8a2ce00440f2221cf4ab0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\0765bfe540b8a2ce00440f2221cf4ab0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\d7463d6e2beaa03348458b5881d4d67c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\d7463d6e2beaa03348458b5881d4d67c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\004676d34d21f6be011da58ea097e513\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\004676d34d21f6be011da58ea097e513\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\a42f72496c0b6f25476e2b46eae04998\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\a42f72496c0b6f25476e2b46eae04998\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\f44be53b88a76ed228b814127bf7fc0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\f44be53b88a76ed228b814127bf7fc0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\97b1a02d12e6ebfd572930c2906b97f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\amir\.gradle\caches\transforms-2\files-2.1\97b1a02d12e6ebfd572930c2906b97f8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amir\Desktop\Desktop\PowerReceiver\app\src\main\AndroidManifest.xml
