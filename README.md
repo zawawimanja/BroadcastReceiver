@@ -1,5 +1,7 @@
-PowerReceiver Sample App (Solution Code)
+Fork of PowerReceiver Sample App (Solution Code)
 ========================================
+
+Register register for different activity.
 
 The PowerReceiver app uses a Broadcast Receiver to receive the system Broadcast
 Intent delivered when the device is connected and disconnected from power and
