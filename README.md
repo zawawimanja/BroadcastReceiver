@@ -1,29 +1,11 @@
 Fork of PowerReceiver Sample App (Solution Code)
 ========================================
 
+
 Register register for different activity.
+No  register in manifest.
 
-The PowerReceiver app uses a Broadcast Receiver to receive the system Broadcast
-Intent delivered when the device is connected and disconnected from power and
-displays a Toast message. It also delivers a custom Broadcast Intent and responds
-with another Toast message when the custom Broadcast is received.
 
-Pre-requisites
---------------
-
-For this app you should be familiar with:
-
-* Creating and running apps in Android Studio.
-* Delivering Toast messages.
-* Creating Implicit Intents.
-* Implementing a BroadcastReceiver
-* Responding to System Broadcast Intents.
-* Creating Custom Broadcast Intents.
-
-Getting Started
----------------
-
-1. Download and open the app in Android Studio.
 
 License
 -------
